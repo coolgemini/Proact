@@ -1,7 +1,7 @@
 {
-  "name": "base",
+  "name": "proactive",
   "version": "0.0.0",
-  "description": "A base for creating angular node apps quickly",
+  "description": "",
   "main": "server.js",
   "scripts": {
     "start": "nodemon server.js",
@@ -10,8 +10,8 @@
   "keywords": [
     "test"
   ],
-  "author": "Peter Short",
-  "license": "BSD-2-Clause",
+  "author": "Jimmy",
+  "license": "",
   "dependencies": {
     "connect": "^3.7.0",
     "express": "^4.17.1",
